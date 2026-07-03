@@ -12,6 +12,9 @@ Icon?
 *.swo
 *~
 
+# Local agent instructions
+AGENTS.md
+
 # Environment variables and local secrets
 .env
 .env.*
